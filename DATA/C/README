@@ -1,0 +1,15 @@
+Ch2:
+Probe at junction
+no resistor or capacitor to ground
+no wire impedance
+
+Ch3:
+probe at end of wire
+with rc series to ground. 50ohm + 330pF
+plus 2m red wire impedance and 1kohm resistor
+
+ch1 = square wave generation signal
+ch2 = -1 
+ch3 = +1
+
+

@@ -1,0 +1,16 @@
+Ch2:
+Probe at junction
+no resistor or capacitor to ground
+no wire impedance
+
+Ch3:
+Probe at junction
+no resistor or capacitor to ground
+no wire impedance
+
+
+ch1 = square wave generation signal
+ch2 = -1 
+ch3 = +1
+
+
